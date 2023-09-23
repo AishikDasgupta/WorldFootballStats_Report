@@ -63,7 +63,8 @@ To run this project, you will need:
 
 ## 🤝 Contributing
 
-We welcome pull requests and contributions! Please feel free to explore the project and add your own analyses or improvements.
+We welcome pull requests and contributions! Please feel free to explo[world_football_stats.pdf](https://github.com/AishikDasgupta/WorldFootballStats_Report/files/12705965/world_football_stats.pdf)
+re the project and add your own analyses or improvements.
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
